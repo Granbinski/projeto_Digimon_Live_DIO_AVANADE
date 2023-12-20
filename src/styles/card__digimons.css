@@ -9,7 +9,7 @@
   background: linear-gradient(
     to top,
     rgba(48, 179, 252, 1),
-    rgba(140, 213, 255, 0.1)
+    rgba(4, 7, 8, 0.1)
   );
   transform: perspective(35em) rotateX(18deg);
 }
